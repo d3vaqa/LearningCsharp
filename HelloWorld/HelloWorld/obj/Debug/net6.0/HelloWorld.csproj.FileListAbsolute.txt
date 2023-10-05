@@ -1,0 +1,15 @@
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\CSharp\Learning\01 Day 01\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

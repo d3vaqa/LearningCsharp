@@ -1,0 +1,15 @@
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\bin\Debug\net6.0\BasicMath.exe
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\bin\Debug\net6.0\BasicMath.deps.json
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\bin\Debug\net6.0\BasicMath.runtimeconfig.json
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\bin\Debug\net6.0\BasicMath.dll
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\bin\Debug\net6.0\BasicMath.pdb
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\obj\Debug\net6.0\BasicMath.csproj.AssemblyReference.cache
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\obj\Debug\net6.0\BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\obj\Debug\net6.0\BasicMath.AssemblyInfoInputs.cache
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\obj\Debug\net6.0\BasicMath.AssemblyInfo.cs
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\obj\Debug\net6.0\BasicMath.csproj.CoreCompileInputs.cache
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\obj\Debug\net6.0\BasicMath.dll
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\obj\Debug\net6.0\refint\BasicMath.dll
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\obj\Debug\net6.0\BasicMath.pdb
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\obj\Debug\net6.0\BasicMath.genruntimeconfig.cache
+D:\CSharp\Learning\01 Day 01\BasicMath\BasicMath\obj\Debug\net6.0\ref\BasicMath.dll
