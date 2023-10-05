@@ -1,0 +1,15 @@
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\obj\Debug\net6.0\LibrarySystem.csproj.AssemblyReference.cache
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\obj\Debug\net6.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\obj\Debug\net6.0\LibrarySystem.AssemblyInfoInputs.cache
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\obj\Debug\net6.0\LibrarySystem.AssemblyInfo.cs
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\obj\Debug\net6.0\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\bin\Debug\net6.0\LibrarySystem.exe
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\bin\Debug\net6.0\LibrarySystem.deps.json
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\bin\Debug\net6.0\LibrarySystem.runtimeconfig.json
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\bin\Debug\net6.0\LibrarySystem.dll
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\bin\Debug\net6.0\LibrarySystem.pdb
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\obj\Debug\net6.0\LibrarySystem.dll
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\obj\Debug\net6.0\refint\LibrarySystem.dll
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\obj\Debug\net6.0\LibrarySystem.pdb
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\obj\Debug\net6.0\LibrarySystem.genruntimeconfig.cache
+D:\CSharp\Learning\01 Day 01\LibrarySystem\LibrarySystem\obj\Debug\net6.0\ref\LibrarySystem.dll
